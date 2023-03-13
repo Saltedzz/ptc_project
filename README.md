@@ -6,7 +6,7 @@ However, in case you cannot run the program, my answers are listed here for your
 
 ### 1. Why are you applying to PTC and why do you want to be part of our company?
 
-I am applying to PTC because they are developing products with breakthrough technologies. I like doing work that is cutting-edge and high impact,and I think that PTC is a great place to do that. Since (corect me if I am wrong) the team I will be working on is the CAD team, one thing that stood out to me about the Creo CAD product was that they were using generative AI technologies. This is a technology that I definitely believe has incredible potential, and I believe it would be very fulfilling if I could intern as a DevOps engineer and be a part of the process that is driving this new technology, albeit not directly.
+I am applying to PTC because they are developing products with breakthrough technologies. I like doing work that is cutting-edge and high impact,and I think that PTC is a great place to do that. Since (correct me if I am wrong) the team I will be working on is the CAD team, one thing that stood out to me about the Creo CAD product was that they were using generative AI technologies. This is a technology that I definitely believe has incredible potential, and I believe it would be very fulfilling if I could intern as a DevOps engineer and be a part of the process that is driving this new technology, albeit not directly.
 
 ### 2. What will you bring to the position/internship program if you are selected to join us?
 
