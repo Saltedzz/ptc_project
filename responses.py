@@ -23,7 +23,7 @@ this new technology, albeit not directly."""
 q2 = "What will you bring to the position/internship program if you are selected to join us?"
 q2_answer = """As a first generation college student and a child of immigrant parents, I believe that I could bring in a unique and refreshing perspective. Growing
 up, I was exposed to a plethora of different viewpoints and socioeconomic classes as my family climbed through the rungs of the socioeconomic ladder. 
-It was a difficult experience trying to constantly fit in and compete with others with increasingly flashier backgrounds, but it was an eye-opening, 
+It was a difficult experience trying to constantly fit in and compete with others with increasingly flashier backgrounds, but it was eye-opening, 
 and it has allowed me to develop a broad, encapsulating perspective and become a sophisticated, critical thinker. I believe that this sets me 
 apart from many other computer science students, and I believe that it is something that allows me to find creative solutions in code and also 
 understand ideas on a higher level much more easily than others."""
@@ -33,7 +33,7 @@ q3 = "What does inclusion in the workplace mean to you?"
 q3_answer = """To me, inclusion in the workplace means creating an environment where everyone feels valued, respected, and empowered to contribute their unique 
 perspectives and ideas. It means encouraging people to bring their whole selves to work, recognizing that people from different backgrounds, experiences, 
 and identities bring different perspectives and strengths to the table. Having done a lot of volunteer work in the past and working in non-software related
-jobs, I have learned to understand how important it is value inclusion. It brings out new ideas and fosters creativity, which is often difficult to find
+jobs, I have learned to understand how important it is to value inclusion. It brings out new ideas and fosters creativity, which is often difficult to find
 in a field such as technology, where many already come from similar backgrounds and have trouble escaping the inevitable social bubble that forms."""
 
 # Seperator
