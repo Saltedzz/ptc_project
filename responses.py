@@ -34,7 +34,7 @@ q3_answer = """To me, inclusion in the workplace means creating an environment w
 perspectives and ideas. It means encouraging people to bring their whole selves to work, recognizing that people from different backgrounds, experiences, 
 and identities bring different perspectives and strengths to the table. Having done a lot of volunteer work in the past and working in non-software related
 jobs, I have learned to understand how important it is value inclusion. It brings out new ideas and fosters creativity, which is often difficult to find
-in a field such as technology, where many already come from similar backgrounds and have trouble escaping the inveitable social bubble that forms."""
+in a field such as technology, where many already come from similar backgrounds and have trouble escaping the inevitable social bubble that forms."""
 
 # Seperator
 sep = "--------------------------------------------------"
